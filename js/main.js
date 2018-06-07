@@ -250,8 +250,8 @@ $(function () {
 // the animation between a BOUNCE animation and no animation.
 $(document).ready(function ($) {
     "use strict";
-    var stockholm = new google.maps.LatLng(59.32522, 18.07002);
-    var parliament = new google.maps.LatLng(59.327383, 18.06747);
+    var stockholm = new google.maps.LatLng(38.9917, 94.6336);
+    var parliament = new google.maps.LatLng(38.9917, 94.6336);
     var image = 'images/marker.png';
     var marker;
     var map;
